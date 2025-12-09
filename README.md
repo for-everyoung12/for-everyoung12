@@ -10,11 +10,11 @@ interfaces that feel effortless.
 
 ### 🛠️ Tech Stack
 
-**Frontend:** React, TypeScript, TailwindCSS, shadcn/ui, Axios  
+**Frontend:** React, JavaScript(ES6+) ,TypeScript (basic), TailwindCSS, shadcn/ui, Axios  
 **Real-time:** Socket.IO, SignalR  
-**Mobile:** Flutter  
+**Mobile:** Flutter, React Native
 **Auth & Cloud:** Firebase  
-**Others:** REST APIs, Kanban UI, Drag & Drop, Responsive UI
+**Database:** MySql, MongoDB
 
 ---
 
